@@ -1,0 +1,1 @@
+Action FILE_DELETE executed on E:\WszytkieProjekty\Cwiczeniea Python\PythonPozniomZaawansowany\dummy_file.txt on 2020-04-18 05:20:19
